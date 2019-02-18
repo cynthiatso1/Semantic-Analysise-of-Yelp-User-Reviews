@@ -1,4 +1,4 @@
-# Semantic-Analysise-of-Yelp-User-Reviews
+# Semantic Analysise of Yelp User Reviews
 
 
 ## Latent Semantic Analysis to Determine Similarity in a Corpus of Yelp User Reviews
